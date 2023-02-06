@@ -1,6 +1,6 @@
 import { StyleSheet, Text, Pressable } from 'react-native'
 import React from 'react'
-
+// test
 
 export default function CustomButton({ onPress, text,  type= 'PRIMARY'}) {
 
